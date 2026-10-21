@@ -4,3 +4,6 @@ __pycache__/
 venv/
 .envdata_stocks.csv
 ~$*
+data_stocks.csv
+~$*
+EURUSD_tick_OK-2-1.csv
